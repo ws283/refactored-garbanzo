@@ -1,11 +1,6 @@
 <?php
 
-/* neither
-     inventory consideration / the more proper negative items approach , 
-   nor 
-     mechanism for user-specified rules
-   are implemented
-*/
+
 
 class Checkout {
   
